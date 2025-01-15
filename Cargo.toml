@@ -19,7 +19,7 @@ scale-typegen = { version = "0.10.0", path = "typegen" }
 # external dependencies
 parity-scale-codec = { version = "3.6.12", features = ["derive"] }
 proc-macro2 = "1.0.89"
-quote = "1.0.33"
+quote = "1.0.38"
 scale-bits = "0.7.0"
 scale-info = { version = "2.11.1", features = ["derive", "bit-vec", "decode", "docs", "serde"] }
 smallvec = "1.10.0"
