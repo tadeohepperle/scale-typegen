@@ -17,7 +17,7 @@ scale-typegen-description = { version = "0.10.0", path = "description" }
 scale-typegen = { version = "0.10.0", path = "typegen" }
 
 # external dependencies
-parity-scale-codec = { version = "3.6.12", features = ["derive"] }
+parity-scale-codec = { version = "3.7.4", features = ["derive"] }
 proc-macro2 = "1.0.89"
 quote = "1.0.33"
 scale-bits = "0.7.0"
